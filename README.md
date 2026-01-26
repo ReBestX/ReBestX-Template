@@ -2,4 +2,4 @@
 HTML &amp; CSS Template 
 
 # Demo 
-https://rebestx.github.io/ReBestX-Template/
+https://aymanbismail.github.io/ReBestX-Template
